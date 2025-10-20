@@ -1,0 +1,767 @@
+{
+    "root": {
+        "title": "The Missed Bus",
+        "contents": [
+            {
+                "id": 1,
+                "actor": null,
+                "content": "It was early Monday morning. Alice and Bob were walking to the bus stop together, talking about their weekend.",
+                "vnMean": "Đó là sáng thứ Hai sớm. Alice và Bob đang đi bộ đến trạm xe buýt cùng nhau, nói chuyện về cuối tuần của họ."
+            },
+            {
+                "id": 2,
+                "actor": "Alice",
+                "content": "I can’t believe the weekend went by so fast!",
+                "vnMean": "Tớ không thể tin cuối tuần trôi qua nhanh như vậy!"
+            },
+            {
+                "id": 3,
+                "actor": "Bob",
+                "content": "Yeah, I wish we had one more day off.",
+                "vnMean": "Ừ, tớ ước gì chúng ta có thêm một ngày nghỉ nữa."
+            },
+            {
+                "id": 4,
+                "actor": null,
+                "content": "They reached the bus stop and looked around.",
+                "vnMean": "Họ đến trạm xe buýt và nhìn xung quanh."
+            },
+            {
+                "id": 5,
+                "actor": "Alice",
+                "content": "Hmm… there aren’t many people here today. That’s strange.",
+                "vnMean": "Hmm… hôm nay không có nhiều người ở đây. Thật lạ."
+            },
+            {
+                "id": 6,
+                "actor": "Bob",
+                "content": "Maybe we’re a bit early. What time is the bus supposed to come?",
+                "vnMean": "Có lẽ chúng ta đến hơi sớm. Xe buýt lẽ ra đến lúc mấy giờ?"
+            },
+            {
+                "id": 7,
+                "actor": "Alice",
+                "content": "It usually arrives at 7:30. What time is it now?",
+                "vnMean": "Nó thường đến lúc 7:30. Bây giờ là mấy giờ rồi?"
+            },
+            {
+                "id": 8,
+                "actor": "Bob",
+                "content": "It’s already 7:35! Oh no, I think we missed it.",
+                "vnMean": "Đã 7:35 rồi! Ôi không, tớ nghĩ chúng ta lỡ chuyến rồi."
+            },
+            {
+                "id": 9,
+                "actor": null,
+                "content": "Alice looked shocked and checked the bus schedule on her phone.",
+                "vnMean": "Alice trông sốc và kiểm tra lịch xe buýt trên điện thoại của cô ấy."
+            },
+            {
+                "id": 10,
+                "actor": "Alice",
+                "content": "You’re right. The next one is in twenty minutes.",
+                "vnMean": "Cậu nói đúng. Chuyến tiếp theo là trong 20 phút nữa."
+            },
+            {
+                "id": 11,
+                "actor": "Bob",
+                "content": "Great… now we’ll be late for work.",
+                "vnMean": "Tuyệt thật… giờ chúng ta sẽ bị trễ làm mất thôi."
+            },
+            {
+                "id": 12,
+                "actor": "Alice",
+                "content": "Don’t worry. Maybe we can take a taxi instead.",
+                "vnMean": "Đừng lo. Có lẽ chúng ta có thể đi taxi thay thế."
+            },
+            {
+                "id": 13,
+                "actor": "Bob",
+                "content": "A taxi? That’s expensive!",
+                "vnMean": "Taxi à? Đắt lắm đó!"
+            },
+            {
+                "id": 14,
+                "actor": "Alice",
+                "content": "I know, but we can share the cost. It’s better than being late again.",
+                "vnMean": "Tớ biết, nhưng chúng ta có thể chia tiền. Còn hơn là lại bị trễ."
+            },
+            {
+                "id": 15,
+                "actor": null,
+                "content": "Bob sighed and smiled slightly.",
+                "vnMean": "Bob thở dài và mỉm cười nhẹ."
+            },
+            {
+                "id": 16,
+                "actor": "Bob",
+                "content": "Alright, you win. Let’s call a taxi.",
+                "vnMean": "Được rồi, cậu thắng. Gọi taxi đi."
+            },
+            {
+                "id": 17,
+                "actor": "Alice",
+                "content": "Okay, give me a minute.",
+                "vnMean": "Được rồi, cho tớ một phút nhé."
+            },
+            {
+                "id": 18,
+                "actor": null,
+                "content": "She opened her phone and booked a ride.",
+                "vnMean": "Cô mở điện thoại và đặt một chuyến xe."
+            },
+            {
+                "id": 19,
+                "actor": "Alice",
+                "content": "The driver will be here in five minutes.",
+                "vnMean": "Tài xế sẽ đến trong 5 phút nữa."
+            },
+            {
+                "id": 20,
+                "actor": "Bob",
+                "content": "That’s not bad. At least we’ll make it on time.",
+                "vnMean": "Không tệ. Ít nhất chúng ta sẽ kịp giờ."
+            },
+            {
+                "id": 21,
+                "actor": null,
+                "content": "While waiting, they chatted about their plans for the week.",
+                "vnMean": "Trong lúc chờ, họ trò chuyện về kế hoạch cho tuần này."
+            },
+            {
+                "id": 22,
+                "actor": "Alice",
+                "content": "I have a meeting with my manager today. I’m a bit nervous.",
+                "vnMean": "Hôm nay tớ có cuộc họp với quản lý. Tớ hơi lo một chút."
+            },
+            {
+                "id": 23,
+                "actor": "Bob",
+                "content": "Don’t worry, you’ll do great. You’re always well-prepared.",
+                "vnMean": "Đừng lo, cậu sẽ làm tốt thôi. Cậu lúc nào cũng chuẩn bị kỹ mà."
+            },
+            {
+                "id": 24,
+                "actor": "Alice",
+                "content": "Thanks, Bob. What about you? Any big tasks?",
+                "vnMean": "Cảm ơn, Bob. Còn cậu thì sao? Có việc lớn nào không?"
+            },
+            {
+                "id": 25,
+                "actor": "Bob",
+                "content": "Just the usual reports, but I have to finish them before Wednesday.",
+                "vnMean": "Chỉ là các báo cáo thường ngày, nhưng tớ phải hoàn thành trước thứ Tư."
+            },
+            {
+                "id": 26,
+                "actor": null,
+                "content": "A white car stopped in front of them.",
+                "vnMean": "Một chiếc xe màu trắng dừng lại trước mặt họ."
+            },
+            {
+                "id": 27,
+                "actor": "Alice",
+                "content": "That must be our taxi. Let’s go!",
+                "vnMean": "Chắc đó là taxi của chúng ta. Đi thôi!"
+            },
+            {
+                "id": 28,
+                "actor": "Bob",
+                "content": "Finally! Let’s hope there’s no traffic.",
+                "vnMean": "Cuối cùng cũng có xe! Mong là không bị kẹt xe."
+            },
+            {
+                "id": 29,
+                "actor": null,
+                "content": "They got into the car and smiled in relief.",
+                "vnMean": "Họ bước lên xe và mỉm cười nhẹ nhõm."
+            },
+            {
+                "id": 30,
+                "actor": "Alice",
+                "content": "Next time, I’m setting two alarms.",
+                "vnMean": "Lần sau tớ sẽ đặt hai báo thức."
+            }
+        ]
+    },
+    "fillQuiz": {
+        "title": "The Missed Bus",
+        "contents": [
+            {
+                "id": 1,
+                "actor": null,
+                "question": "It was early Monday morning when Alice and Bob were walking to ________.",
+                "answer": "the bus stop",
+                "vnMean": "trạm xe buýt"
+            },
+            {
+                "id": 2,
+                "actor": "Alice",
+                "question": "I can’t believe the weekend went by ________!",
+                "answer": "so fast",
+                "vnMean": "nhanh như vậy"
+            },
+            {
+                "id": 3,
+                "actor": "Bob",
+                "question": "Yeah, I wish we had ________ day off.",
+                "answer": "one more",
+                "vnMean": "thêm một"
+            },
+            {
+                "id": 4,
+                "actor": null,
+                "question": "They reached the bus stop and ________.",
+                "answer": "looked around",
+                "vnMean": "nhìn xung quanh"
+            },
+            {
+                "id": 5,
+                "actor": "Alice",
+                "question": "There aren’t many people here today. That’s ________.",
+                "answer": "strange",
+                "vnMean": "lạ thật"
+            },
+            {
+                "id": 6,
+                "actor": "Bob",
+                "question": "Maybe we’re a bit early. What time is the bus ________?",
+                "answer": "supposed to come",
+                "vnMean": "được cho là sẽ đến"
+            },
+            {
+                "id": 7,
+                "actor": "Alice",
+                "question": "It usually arrives at ________. What time is it now?",
+                "answer": "7:30",
+                "vnMean": "7 giờ 30"
+            },
+            {
+                "id": 8,
+                "actor": "Bob",
+                "question": "It’s already 7:35! Oh no, I think we ________.",
+                "answer": "missed it",
+                "vnMean": "bỏ lỡ mất rồi"
+            },
+            {
+                "id": 9,
+                "actor": null,
+                "question": "Alice looked shocked and checked the ________ on her phone.",
+                "answer": "bus schedule",
+                "vnMean": "lịch xe buýt"
+            },
+            {
+                "id": 10,
+                "actor": "Alice",
+                "question": "You’re right. The next one is in ________.",
+                "answer": "twenty minutes",
+                "vnMean": "20 phút nữa"
+            },
+            {
+                "id": 11,
+                "actor": "Bob",
+                "question": "Great… now we’ll be ________ for work.",
+                "answer": "late",
+                "vnMean": "trễ"
+            },
+            {
+                "id": 12,
+                "actor": "Alice",
+                "question": "Don’t worry. Maybe we can ________ instead.",
+                "answer": "take a taxi",
+                "vnMean": "đi taxi"
+            },
+            {
+                "id": 13,
+                "actor": "Bob",
+                "question": "A taxi? That’s ________!",
+                "answer": "expensive",
+                "vnMean": "đắt lắm"
+            },
+            {
+                "id": 14,
+                "actor": "Alice",
+                "question": "We can share the cost. It’s better than ________ again.",
+                "answer": "being late",
+                "vnMean": "bị trễ"
+            },
+            {
+                "id": 15,
+                "actor": null,
+                "question": "Bob sighed and ________ slightly.",
+                "answer": "smiled",
+                "vnMean": "mỉm cười"
+            },
+            {
+                "id": 16,
+                "actor": "Bob",
+                "question": "Alright, you win. Let’s ________.",
+                "answer": "call a taxi",
+                "vnMean": "gọi taxi"
+            },
+            {
+                "id": 17,
+                "actor": "Alice",
+                "question": "Okay, give me ________.",
+                "answer": "a minute",
+                "vnMean": "một phút"
+            },
+            {
+                "id": 18,
+                "actor": null,
+                "question": "She opened her phone and ________ a ride.",
+                "answer": "booked",
+                "vnMean": "đặt"
+            },
+            {
+                "id": 19,
+                "actor": "Alice",
+                "question": "The driver will be here in ________.",
+                "answer": "five minutes",
+                "vnMean": "5 phút nữa"
+            },
+            {
+                "id": 20,
+                "actor": "Bob",
+                "question": "That’s not bad. At least we’ll make it ________.",
+                "answer": "on time",
+                "vnMean": "đúng giờ"
+            },
+            {
+                "id": 21,
+                "actor": null,
+                "question": "While waiting, they ________ about their plans.",
+                "answer": "chatted",
+                "vnMean": "trò chuyện"
+            },
+            {
+                "id": 22,
+                "actor": "Alice",
+                "question": "I have a meeting with my ________ today.",
+                "answer": "manager",
+                "vnMean": "quản lý"
+            },
+            {
+                "id": 23,
+                "actor": "Bob",
+                "question": "Don’t worry, you’ll do great. You’re always ________.",
+                "answer": "well-prepared",
+                "vnMean": "chuẩn bị kỹ"
+            },
+            {
+                "id": 24,
+                "actor": "Alice",
+                "question": "What about you? Any ________ tasks?",
+                "answer": "big",
+                "vnMean": "lớn"
+            },
+            {
+                "id": 25,
+                "actor": "Bob",
+                "question": "Just the usual reports, but I have to finish them ________ Wednesday.",
+                "answer": "before",
+                "vnMean": "trước"
+            },
+            {
+                "id": 26,
+                "actor": null,
+                "question": "A white car ________ in front of them.",
+                "answer": "stopped",
+                "vnMean": "dừng lại"
+            },
+            {
+                "id": 27,
+                "actor": "Alice",
+                "question": "That must be our taxi. ________!",
+                "answer": "Let’s go",
+                "vnMean": "Đi thôi"
+            },
+            {
+                "id": 28,
+                "actor": "Bob",
+                "question": "Finally! Let’s hope there’s no ________.",
+                "answer": "traffic",
+                "vnMean": "kẹt xe"
+            },
+            {
+                "id": 29,
+                "actor": null,
+                "question": "They got into the car and ________ in relief.",
+                "answer": "smiled",
+                "vnMean": "mỉm cười"
+            },
+            {
+                "id": 30,
+                "actor": "Alice",
+                "question": "Next time, I’m setting ________.",
+                "answer": "two alarms",
+                "vnMean": "hai báo thức"
+            }
+        ]
+    },
+    "choiceQuiz": {
+        "title": "The Missed Bus",
+        "contents": [
+            {
+                "id": 1,
+                "actor": null,
+                "question": "Alice and Bob were walking to the ________.",
+                "options": [
+                    "supermarket",
+                    "bus stop",
+                    "office",
+                    "park"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 2,
+                "actor": "Alice",
+                "question": "I can’t believe the weekend went by ________!",
+                "options": [
+                    "so slowly",
+                    "so fast",
+                    "normally",
+                    "quietly"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 3,
+                "actor": "Bob",
+                "question": "I wish we had ________ day off.",
+                "options": [
+                    "no",
+                    "every",
+                    "one more",
+                    "less"
+                ],
+                "answer": 2
+            },
+            {
+                "id": 4,
+                "actor": null,
+                "question": "They reached the bus stop and ________.",
+                "options": [
+                    "looked around",
+                    "sat down",
+                    "ran away",
+                    "called a taxi"
+                ],
+                "answer": 0
+            },
+            {
+                "id": 5,
+                "actor": "Alice",
+                "question": "There aren’t many people here today. That’s ________.",
+                "options": [
+                    "normal",
+                    "funny",
+                    "strange",
+                    "boring"
+                ],
+                "answer": 2
+            },
+            {
+                "id": 6,
+                "actor": "Bob",
+                "question": "What time is the bus ________ to come?",
+                "options": [
+                    "decided",
+                    "supposed",
+                    "promised",
+                    "asked"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 7,
+                "actor": "Alice",
+                "question": "It usually arrives at ________.",
+                "options": [
+                    "7:30",
+                    "8:00",
+                    "7:00",
+                    "7:45"
+                ],
+                "answer": 0
+            },
+            {
+                "id": 8,
+                "actor": "Bob",
+                "question": "It’s already 7:35! Oh no, I think we ________.",
+                "options": [
+                    "found it",
+                    "missed it",
+                    "saw it",
+                    "caught it"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 9,
+                "actor": null,
+                "question": "Alice checked the ________ on her phone.",
+                "options": [
+                    "weather",
+                    "bus schedule",
+                    "email",
+                    "map"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 10,
+                "actor": "Alice",
+                "question": "The next one is in ________ minutes.",
+                "options": [
+                    "ten",
+                    "twenty",
+                    "thirty",
+                    "forty"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 11,
+                "actor": "Bob",
+                "question": "Now we’ll be ________ for work.",
+                "options": [
+                    "early",
+                    "on time",
+                    "late",
+                    "free"
+                ],
+                "answer": 2
+            },
+            {
+                "id": 12,
+                "actor": "Alice",
+                "question": "Maybe we can ________ instead.",
+                "options": [
+                    "walk",
+                    "drive",
+                    "take a taxi",
+                    "wait longer"
+                ],
+                "answer": 2
+            },
+            {
+                "id": 13,
+                "actor": "Bob",
+                "question": "A taxi? That’s ________!",
+                "options": [
+                    "cheap",
+                    "expensive",
+                    "boring",
+                    "easy"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 14,
+                "actor": "Alice",
+                "question": "It’s better than ________ again.",
+                "options": [
+                    "being late",
+                    "being early",
+                    "being rich",
+                    "being tired"
+                ],
+                "answer": 0
+            },
+            {
+                "id": 15,
+                "actor": null,
+                "question": "Bob sighed and ________.",
+                "options": [
+                    "laughed",
+                    "cried",
+                    "smiled",
+                    "slept"
+                ],
+                "answer": 2
+            },
+            {
+                "id": 16,
+                "actor": "Bob",
+                "question": "Let’s ________ a taxi.",
+                "options": [
+                    "book",
+                    "call",
+                    "find",
+                    "wait"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 17,
+                "actor": "Alice",
+                "question": "Okay, give me ________.",
+                "options": [
+                    "a hand",
+                    "a minute",
+                    "a smile",
+                    "a chance"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 18,
+                "actor": null,
+                "question": "She opened her phone and ________ a ride.",
+                "options": [
+                    "booked",
+                    "drove",
+                    "missed",
+                    "cancelled"
+                ],
+                "answer": 0
+            },
+            {
+                "id": 19,
+                "actor": "Alice",
+                "question": "The driver will be here in ________ minutes.",
+                "options": [
+                    "three",
+                    "four",
+                    "five",
+                    "six"
+                ],
+                "answer": 2
+            },
+            {
+                "id": 20,
+                "actor": "Bob",
+                "question": "At least we’ll make it ________.",
+                "options": [
+                    "on time",
+                    "too late",
+                    "next time",
+                    "home"
+                ],
+                "answer": 0
+            },
+            {
+                "id": 21,
+                "actor": null,
+                "question": "While waiting, they ________.",
+                "options": [
+                    "slept",
+                    "chatted",
+                    "worked",
+                    "ate"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 22,
+                "actor": "Alice",
+                "question": "I have a meeting with my ________ today.",
+                "options": [
+                    "friend",
+                    "manager",
+                    "teacher",
+                    "neighbor"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 23,
+                "actor": "Bob",
+                "question": "You’re always ________.",
+                "options": [
+                    "lazy",
+                    "worried",
+                    "well-prepared",
+                    "late"
+                ],
+                "answer": 2
+            },
+            {
+                "id": 24,
+                "actor": "Alice",
+                "question": "Any ________ tasks?",
+                "options": [
+                    "easy",
+                    "boring",
+                    "big",
+                    "funny"
+                ],
+                "answer": 2
+            },
+            {
+                "id": 25,
+                "actor": "Bob",
+                "question": "I have to finish them ________ Wednesday.",
+                "options": [
+                    "after",
+                    "before",
+                    "on",
+                    "by"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 26,
+                "actor": null,
+                "question": "A white car ________ in front of them.",
+                "options": [
+                    "stopped",
+                    "moved",
+                    "turned",
+                    "disappeared"
+                ],
+                "answer": 0
+            },
+            {
+                "id": 27,
+                "actor": "Alice",
+                "question": "That must be our taxi. ________!",
+                "options": [
+                    "Wait here",
+                    "Let’s go",
+                    "Stop it",
+                    "Be careful"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 28,
+                "actor": "Bob",
+                "question": "Let’s hope there’s no ________.",
+                "options": [
+                    "rain",
+                    "traffic",
+                    "wind",
+                    "noise"
+                ],
+                "answer": 1
+            },
+            {
+                "id": 29,
+                "actor": null,
+                "question": "They got into the car and ________.",
+                "options": [
+                    "smiled",
+                    "argued",
+                    "slept",
+                    "cried"
+                ],
+                "answer": 0
+            },
+            {
+                "id": 30,
+                "actor": "Alice",
+                "question": "Next time, I’m setting ________.",
+                "options": [
+                    "one alarm",
+                    "two alarms",
+                    "no alarm",
+                    "a clock"
+                ],
+                "answer": 1
+            }
+        ]
+    }
+}
